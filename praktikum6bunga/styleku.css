@@ -1,0 +1,39 @@
+
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+
+
+h1{
+    color: blue;
+    text-align: center;
+    
+        background-color: yellow;
+        border: 0px dotted red;
+        text-align: center;
+        font-weight: bold;
+        color: black;
+
+}
+
+p{
+    text-align: justify;
+    width: fit-content;
+}
+.center{ 
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+blockquote {
+    background-color: yellow;
+    border: 1px dotted red;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
